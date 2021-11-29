@@ -44,7 +44,7 @@ Make sure your service is running with the below command:
 You can use the below command to stop the project:
 
 ```bash
-   docker-compose down********
+   docker-compose down
 ```
 
 ## Test the project
